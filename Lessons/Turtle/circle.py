@@ -9,5 +9,5 @@ turtle.pendown()
 sides = 180
 while sides != 0:
     turtle.forward(3)
-    turtle.left(2)
+    turtle.left(3)
     sides -= 1
